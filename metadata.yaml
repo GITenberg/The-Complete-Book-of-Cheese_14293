@@ -1,0 +1,29 @@
+_repo: The-Complete-Book-of-Cheese_14293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Bob
+    alias: Brown, Robert Carlton
+    birthdate: 1886
+    deathdate: 1959
+    gutenberg_agent_id: '5452'
+    url: http://www.gutenberg.org/2009/agents/5452
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cheese'
+- !lcsh 'Cooking (Cheese)'
+- !lcc 'SF'
+title: The Complete Book of Cheese
+url: http://www.gutenberg.org/ebooks/14293
