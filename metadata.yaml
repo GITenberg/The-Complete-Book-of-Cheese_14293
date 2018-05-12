@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5452'
     url: http://www.gutenberg.org/2009/agents/5452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14293#The-Complete-Book-of-Cheese
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-12-07'
 gutenberg_type: Text
